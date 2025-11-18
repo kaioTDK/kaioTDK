@@ -17,18 +17,12 @@ Estudo java como linguagem principal e nas horas vagas estudo C e linux por praz
 <div> 
 <a href ="https://www.linkedin.com/in/kaioj-santos/"> <img src="https://skillicons.dev/icons?i=linkedin"></a>
 </div>
+<div>
 <a href="https://www.linkedin.com/in/kaioj-santos/"> Kaio santos</a>
+</div>
 </div>
 <br>
 
-<div style="display: flex; align-items: center; gap: 20px; align: center; padding: 10px">
-<div> 
-<a href ="https://github.com/kaioTDK" >
-<img src="https://skillicons.dev/icons?i=github"> 
-</a>
-</div> 
-<a href="https://github.com/kaioTDK"> KaioTDK</a>
-</div>
 <hr>
 <p align=center> <b>Git status<b>
 <p align=center>
