@@ -25,7 +25,6 @@ Estudo java como linguagem principal e nas horas vagas estudo C e linux por praz
 
 <hr>
 <p align=center> <b>Git status<b>
-  <\p>
 <p align=center>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kaioTDK&theme=dracula&show_icons=true&hide_border=true&count_private=false"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioTDK&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
