@@ -8,7 +8,7 @@ Estudo java como linguagem principal e nas horas vagas estudo C e linux por praz
 
 ## Tecnologias
 
-![Technologies](https://skillicons.dev/icons?i=java,c,linux,git,clion,idea,docker,sqlite,postgres)
+![Technologies](https://skillicons.dev/icons?i=java,c,linux,git,clion,idea,docker,postgres)
 <br>
 
 ## Contato
